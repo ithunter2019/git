@@ -6,3 +6,7 @@ first use git 0307
 
 
 456544
+
+zhang
+
+商品管理
